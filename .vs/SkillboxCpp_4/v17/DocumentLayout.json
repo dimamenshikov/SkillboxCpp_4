@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Games\\VisualStudioProjects\\Projects\\SkillboxCpp_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92ED998F-110C-499B-84B4-865EF054B366}|SkillboxCpp_4.vcxproj|D:\\Games\\VisualStudioProjects\\Projects\\SkillboxCpp_4\\SkillboxCpp_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92ED998F-110C-499B-84B4-865EF054B366}|SkillboxCpp_4.vcxproj|solutionrelative:SkillboxCpp_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 392,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SkillboxCpp_4.cpp",
+              "DocumentMoniker": "D:\\Games\\VisualStudioProjects\\Projects\\SkillboxCpp_4\\SkillboxCpp_4.cpp",
+              "RelativeDocumentMoniker": "SkillboxCpp_4.cpp",
+              "ToolTip": "D:\\Games\\VisualStudioProjects\\Projects\\SkillboxCpp_4\\SkillboxCpp_4.cpp",
+              "RelativeToolTip": "SkillboxCpp_4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T19:22:21.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 130,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
